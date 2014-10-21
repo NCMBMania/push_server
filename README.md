@@ -4,6 +4,11 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+# Usage
+
+- GitHubのWebhookを使ってプッシュ通知呼び出し
+
 # LICENSE
 
 MIT License
+

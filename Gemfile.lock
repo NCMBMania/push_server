@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.2.5)
-    ncmb-ruby-client (0.0.2)
+    ncmb-ruby-client (0.0.3)
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
@@ -28,6 +28,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ncmb-ruby-client (~> 0.0.2)
+  ncmb-ruby-client (~> 0.0.3)
   rspec
   sinatra
